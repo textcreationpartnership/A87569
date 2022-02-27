@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truths returne: in answer to a malignant pamphlet, pretended to be written by a most orthodox, moderate, and judicious divine, a banished minister of this miserable kingdom; to a vertuous lady, who (for the exercise of her devotion) built a closet, wherein to secure the most sacred Book of Common-Prayer, from the view and violence of the enemies thereof, sectaries and schismatiques of this kingdome. Being printed together; that thereby the great difference may appear, between prayer reall, and pretended: a forme of godlinesse, and the power thereof. / By Theo: Jennings, gent.</title>
+            <author>Jennings, Theodore.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87569</idno>
+            <idno type="STC">Wing J672</idno>
+            <idno type="STC">Thomason E360_4</idno>
+            <idno type="STC">ESTC R201192</idno>
+            <idno type="EEBO-CITATION">99861727</idno>
+            <idno type="PROQUEST">99861727</idno>
+            <idno type="VID">160021</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87569)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160021)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E360[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truths returne: in answer to a malignant pamphlet, pretended to be written by a most orthodox, moderate, and judicious divine, a banished minister of this miserable kingdom; to a vertuous lady, who (for the exercise of her devotion) built a closet, wherein to secure the most sacred Book of Common-Prayer, from the view and violence of the enemies thereof, sectaries and schismatiques of this kingdome. Being printed together; that thereby the great difference may appear, between prayer reall, and pretended: a forme of godlinesse, and the power thereof. / By Theo: Jennings, gent.</title>
+                  <author>Jennings, Theodore.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes: To a vertuous and judicious lady (Wing T1318).</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Nour: 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer, --  Controversial literature --  Early works to 1800.</term>
+               <term>Prayer --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160021:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>Truths Returne: In anſwer to a MALIGNANT PAMPHLET, PRETENDED To be written by a moſt Orthodox, Moderate, and judicious Divine, a bani<g ref="char:EOLhyphen"/>ſhed Miniſter of this miſerable Kingdom;</p>
+            <p>TO A Vertuous Lady, who (for the exerciſe of her Devotion) built a Cloſet, wherein to ſecure the moſt ſacred Book of COMMON-PRAYER, from the view and violence of the enemies thereof, Sectaries and Schiſmatiques of this KINGDOME.</p>
+            <p>Being printed together; that thereby the great dif<g ref="char:EOLhyphen"/>ference may appear, between Prayer reall, and pretended: a forme of Godlineſſe, and the power thereof.</p>
+            <p>By THEO: JENNINGS, Gent.</p>
+            <q>
+               <p>Pray Without ceaſing, quench not the ſpirit,</p>
+               <bibl>
+                  <hi>Theſ. 5.17, 19.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>The naturall man receiveth not the things of the Spirit of God; for they are fooliſhneſſe to him; neither can be know them, be<g ref="char:EOLhyphen"/>cauſe they are ſpiritually diſcerned,</p>
+               <bibl>
+                  <hi>1 Cor. 2.14.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Prove all things, hold faſt that which is good,</p>
+               <bibl>
+                  <hi>1 Theſ. 5.21.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. C.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:160021:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:160021:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>To a vertuous and judicious Lady, who (for the exerciſe of her devotion) built a Cloſet, wherein to ſecure the moſt Sacred Booke of COMMON PRAYER, from the view and violence of the enemies thereof, the Sectaries and Schiſmatiques of this Kingdome.</head>
+            <byline>Written by a moſt Orthodox, Moderate, and Judicious Divine, A banniſhed Miniſter of this miſerable Kingdome.</byline>
+            <lg>
+               <l>SInce it hath pleas'd our wiſe and new-borne State</l>
+               <l>The Common-Prayer-Book t' excommunicate:</l>
+               <l>To turne it out of all, as if it were</l>
+               <l>Some grand Malignant, or ſome Cavaliere:</l>
+               <l>Since in our Churches it's by them forbid</l>
+               <l>To ſay ſuch Prayers, as our Fathers did:</l>
+               <l>So that Gods Houſe muſt now be call'd no more</l>
+               <l>
+                  <hi>The Houſe or Prayer,</hi> ſo ever call'd before:</l>
+               <l>As if thoſe Chriſtians were reſolv'd to uſe</l>
+               <l>That Houſe, as bad, as ever did the Jews:</l>
+               <l>Since that of Chriſt, may now of Prayer be ſaid,</l>
+               <l>
+                  <hi>It wants a place Whereon to lay its head;</hi>
+               </l>
+               <l>I cannot chuſe but think, it was your care,</l>
+               <l>To build your Cloſet for diſtreſſed PRAYER;</l>
+               <l>
+                  <pb n="2" facs="tcp:160021:3"/>
+                  <!-- PDF PAGE 3 -->
+Which here in mourning clad, preſents it ſelfe,</l>
+               <l>Begging ſome little corner on your ſhelfe:</l>
+               <l>For ſince 't is banniſh'd from all publike view,</l>
+               <l>There be none dare it entertain, but you.</l>
+               <l>How times and men are chang'd! who would have thought</l>
+               <l>I'have ſeen the <hi>Service-Book</hi> thus ſet at naught?</l>
+               <l>A Book worth Gold, if rightly underſtood;</l>
+               <l>Compos'd by Martyrs, ſealed with their blood.</l>
+               <l>Once burnt by Papiſts, meerly for this cauſe,</l>
+               <l>It was repugnant to their Popiſh Lawes.</l>
+               <l>Now by our Zelots 't is condemn'd to die,</l>
+               <l>Becauſe (forſooth) 't is full of Popery.</l>
+               <l>And thus we ſee the Golden meane defy'd,</l>
+               <l>And how ('twixt two extreames) 't is crucify'd.</l>
+               <l>But 't is no matter, we ſee ſtranger things,</l>
+               <l>Kings muſt be Subjects now, and Subjects, Kings.</l>
+               <l>The meaner ſort of men have all the power;</l>
+               <l>The upper end is now beneath the lower:</l>
+               <l>The head below the feet; they'll weare the Crowne:</l>
+               <l>Who would not think the world's turn'd upſide-down?</l>
+               <l>Learning muſt now give place to Ignorance,</l>
+               <l>So muſt a Statute to an Ordinance;</l>
+               <l>Religion; to Prophaneneſſe, and vain-glory;</l>
+               <l>The Common Prayer-Book; to the Directory.</l>
+               <l>All things are out of order, and I feare,</l>
+               <l>Are like to be, till we are as we were:</l>
+               <l>Till Biſhops do returne to end the ſtir</l>
+               <l>Twixt th' Independent and the Presbyter:</l>
+               <l>Till Kings be Kings, and till we (wiſhed) ſee</l>
+               <l>The Church enjoy her ancient Lyturgie:</l>
+               <l>Till Loyalty be had in more regard:</l>
+               <l>And till Rebellion hath its juſt reward.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And that theſe things may be, we'll not deſpaire:</hi>
+               </l>
+               <l>
+                  <hi>All this, and more, may be obtain'd by Prayer.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="3" facs="tcp:160021:3"/>
+            <!-- PDF PAGE 3 -->
+            <l>THou grand Malignant Prieſt who ſeem'ſt to dare</l>
+            <l>That Precious true-borne State, whom God did ſpare.</l>
+            <l>When your ſtrong forces felt his wrath and hate</l>
+            <l>Whilſt he up raiſ'd this Kingdom, in our State.</l>
+            <l>And made them glorious, to reforme thoſe things</l>
+            <l>Our Fathers did amiſſe, as did our Kings.</l>
+            <l>When injudicious, Arrogant, Divines</l>
+            <l>In orthodox, and proud, did rule thoſe times.</l>
+            <l>But now, the Clouds diſpeld;<note place="margin">2 Cor. 4.2, 3, 4.</note> the Goſpels light</l>
+            <l>Diſcovers truths, and makes them ſhine ſo bright.</l>
+            <l>That purblind eyes, are made ſtark blind, while ſome</l>
+            <l>Have gain'd their ſight, and now to light are come.</l>
+            <l>What truth more cleare, can any Saint inherit,<note place="margin">Zack. 12.10.13.14.</note>
+            </l>
+            <l>When God doth promiſe for to powers his ſpirit</l>
+            <l>Of grace and ſupplications on them all</l>
+            <l>That mourne, and pray, and on Gods name do call?</l>
+            <l>In bitterneſſe, then each relations heart</l>
+            <l>In all the land ſhall mourn for ſin apart:</l>
+            <l>King, Prophet, people, (all that grace attaine)</l>
+            <l>Their wives, and Families, that do remaine.</l>
+            <l>Thus God removes all tottering formes,<note place="margin">Heb. 12.27.28.</note> and he</l>
+            <l>A Kingdome gives, that moved cannot bee.</l>
+            <l>Believe but Jeſus, formes of Prayer are none</l>
+            <l>But in the Spirit, to worſhip God alone.<note place="margin">Ioh. 4.21.23.24.</note>
+            </l>
+            <l>God is a Spirit, true worſhippers and juſt</l>
+            <l>In ſpirit and truth, the Father, worſhip muſt.</l>
+            <l>
+               <pb n="4" facs="tcp:160021:4"/>
+               <!-- PDF PAGE 4 -->
+The manner how, and what to aske,<note place="margin">Mat. 6.9. Lnk. 11.2.</note> alone</l>
+            <l>Is onely, in the Lords Prayer clearly ſhewn.</l>
+            <l>That forme of words none vſ'd but Chriſt as yee</l>
+            <l>Thence to the end, o'th Revelations ſee.<note place="margin">2 Tim. 3.2, 3, 4, 5, 6, 7, 8, 9.</note>
+            </l>
+            <l>A forme, the vil'ſt of men, do onely uſe:</l>
+            <l>The pow'r of godlineſſe they do refuſe:</l>
+            <l>Lead others Captive: Reprobate are they</l>
+            <l>(God us commands from ſuch to turne away.)</l>
+            <l>
+               <hi>Idnnes</hi> and <hi>Iambres</hi> like, they truth reſiſt</l>
+            <l>Vnmaskt to all,<note place="margin">Ro. 8.26.27.</note> theſe fooles, ſhall not perſiſt.</l>
+            <l>By'th Spirit of Chriſt,<note place="margin">1 Pet. 2.5.</note> our Spirits framed are</l>
+            <l>An Habitation:<note place="margin">Gal. 1.22.23.</note> Wee; his Houſe of Prayer.</l>
+            <l>Saints are the Churches,<note place="margin">Ioh 4.20.</note> which true Chriſtians uſe,</l>
+            <l>Your Churches are a fragment of the Jews.<note place="margin">Luke 13.32.</note>
+            </l>
+            <l>You Foxes are,<note place="margin">C. 9.5.8.</note> as Chriſt of <hi>Herod</hi> ſaid</l>
+            <l>Your holes,<note place="margin">Luke 14.46.</note> afford no roome, to reſt his head.</l>
+            <l>You, nor your Fathers never tooke the care</l>
+            <l>To get your hearts,<note place="margin">Mat. 15.8.9.</note> to be Chriſts Houſe of Prayer.</l>
+            <l>Dead formes in bookes you Idolize alone;<note place="margin">1 Pet. 2.4.</note>
+            </l>
+            <l>To Chriſt you come not as a living Stone.</l>
+            <l>You, and your Churches, are alike beſtead:</l>
+            <l>Your hearts as ſtony,<note place="margin">Heb. 12.13.14.</note> hard, key cold, and dead.</l>
+            <l>Your Common-Service Booke if,<note place="margin">1 Pet. 4.19.</note> once a crute;</l>
+            <l>The lame once heald, would never more it touch.</l>
+            <l>That faith in prayer,<note place="margin">1 Sam. 13.9, 10, 11, 12, 13, 14. C. 22.16.18.19. C. 15.9.18.19, 20, 22, 23, 30, 31, 32, 33.</note> the Martyrs tongues expreſt</l>
+            <l>Flow'd onely from Gods Spirit, in their breſt.</l>
+            <l>Their paths made ſtraight; their feete went not aſtray:</l>
+            <l>In Peace, and Holineſſe they kept that way.</l>
+            <l>You lame; out of the way are turned quite</l>
+            <l>Your diſobedience hat full in Gods ſight.</l>
+            <l>Like <hi>Saul,</hi> you force ſuch ſervice on the Lord,</l>
+            <l>
+               <pb n="5" facs="tcp:160021:4"/>
+               <!-- PDF PAGE 4 -->
+As makes your Prayers and Perſons both abhord.</l>
+            <l>Your grand rebellions hatefull in Gods ſight</l>
+            <l>Ye ſlew the Saints, ſpat'd for Amalekite.</l>
+            <l>God gave our State, his wiſdome, and a call</l>
+            <l>And power to hew your hopes, in peeces ſmall.</l>
+            <l>Your golden Book, the people dejfi'd</l>
+            <l>If Papiſts, <hi>(Alcaron like)</hi> could not abide.</l>
+            <l>Much leſſe, could our juſt State indure ſuch things</l>
+            <l>As hurt themſelves, our Kingdome, and our Kings.<note place="margin">2 Kin. 18.4.</note>
+            </l>
+            <l>Therefore they Covenant, wholly to reduce</l>
+            <l>All to Gods word, even the primary uſe.</l>
+            <l>And now no wonder, we ſee ſuch ſtrange things</l>
+            <l>As Kings Gods Subjects, Subjects made Gods Kings.<note place="margin">Rev. 1.6. C. 2.26, 27, 28. C. 21.24.26. Eſa. 60.3. 2 Tim. 4.8. 2 Pet. 3.16, 17, 18. 1 Cor. 14.22, 23, 24, 25. C. 2.4.5.6. 1 Cor. 14.33. Heb. 8.10.11. Ier. 31.33.34. 1 Kin. 2.44, 45, 46. Dan. 7.16.</note>
+            </l>
+            <l>Such men have all, the power of Chriſt we know</l>
+            <l>In Heaven above, and on the earth below.</l>
+            <l>Thus all degrees, below enjoy a Crowne</l>
+            <l>The world to Heaven, is turned upſide downe.</l>
+            <l>Gods Learning, muſt take place of Ignorance</l>
+            <l>The Goſpel of each; Law, and Ordinance.</l>
+            <l>Religion, of Prophaneneſſe, and vain glory:</l>
+            <l>And pretious faith, lookes to Gods directory.</l>
+            <l>Gods order in all things ſhall thus appeare</l>
+            <l>Gods truth, all enemies, ſhall quite caſhire.</l>
+            <l>Kings, Paſtors, People, all on God depend</l>
+            <l>And <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayling <hi>Shime's</hi> juſtly brought to end.</l>
+            <l>The Churches ſhall enjoy their Liberty</l>
+            <l>Received from Chriſt, without Malignity.</l>
+            <l>Rebellion, it ſhall have the juſt reward:</l>
+            <l>And Loyalty, be had in due regard.</l>
+            <l>
+               <pb n="6" facs="tcp:160021:5"/>
+               <!-- PDF PAGE 5 -->
+But ask in faith, of Chriſt,<note place="margin">Mat. 21.22: Iohn 16.23.24. Iam. 5.15.16.</note> and do not feare</l>
+            <l>To gaine all needfull things, by hearty Pray'r.</l>
+            <closer>
+               <dateline>
+                  <date>November the 3. 1646.</date>
+               </dateline>
+               <signed>Theodore Iennings.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
